@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ryxu-xo&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/ryxu-xo?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ryxu-xo?label=Stars&style=social)
+![GitHub contributions](https://img.shields.io/github/commit-activity/m/ryxu-xo?label=Monthly%20Commits&style=flat&color=blue)
 
 </div>
 
@@ -15,6 +16,7 @@
 ![Euralink](https://img.shields.io/badge/Euralink-Owner%20%26%20Creator-blue?style=for-the-badge&logo=discord&logoColor=white)
 ![NPM Package](https://img.shields.io/npm/v/ryxu-xo-euralink?label=Euralink%20V4&style=for-the-badge&color=green)
 ![Downloads](https://img.shields.io/npm/dm/ryxu-xo-euralink?label=Downloads&style=for-the-badge&color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/ryxu-xo/euralink?label=Last%20Commit&style=for-the-badge&color=purple)
 
 </div>
 
@@ -61,8 +63,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryxu-xo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxu-xo&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryxu-xo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryxu-xo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryxu-xo&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -72,7 +75,7 @@
 
 ### 🎵 **Euralink V4** - *Active Development*
 - **Status**: 🟢 Production Ready
-- **Downloads**: 10,000+ monthly
+- **Downloads**: 2,000+ monthly
 - **Features**: 50+ new features in V4
 - **Performance**: 3x faster than V3
 
@@ -111,8 +114,8 @@
 
 | Metric | Value |
 |--------|-------|
-| **NPM Downloads** | 50,000+ total |
-| **GitHub Stars** | 500+ |
+| **NPM Downloads** | ![NPM Downloads](https://img.shields.io/npm/dm/ryxu-xo-euralink?label=Downloads&style=flat-square) |
+| **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/ryxu-xo/euralink?label=Stars&style=flat-square) |
 | **Discord Servers** | 1,000+ |
 | **Active Users** | 10,000+ |
 | **Uptime** | 99.9% |
@@ -157,11 +160,16 @@
 
 <!--START_SECTION:activity-->
 1. 🎵 **Released Euralink V4** - The biggest update yet!
-2. 🚀 **Added HTTP/2 Support** - 3x performance improvement
+2. 🚀 **Added HTTP/2 Support** - 3x performance improvement  
 3. 🎛️ **Implemented Dynamic EQ** - Advanced audio processing
 4. 🛡️ **Built Voice Resilience** - Auto-recovery system
 5. 📊 **Added Prometheus Metrics** - Production monitoring
+6. 🔧 **Fixed Audio Playback Issues** - Resolved player state bugs
+7. 📚 **Updated Documentation** - Comprehensive V4 guides
+8. 🎨 **Enhanced Examples** - Better bot implementations
 <!--END_SECTION:activity-->
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryxu-xo&theme=tokyonight&hide_border=true&custom_title=Ryxu's%20Contribution%20Activity)
 
 ---
 
