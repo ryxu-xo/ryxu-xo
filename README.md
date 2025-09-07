@@ -95,16 +95,11 @@
 
 <div align="center">
 
-![NPM Downloads](https://img.shields.io/badge/NPM-10,000%2B%20Downloads-green?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/badge/GitHub-500%2B%20Stars-yellow?style=for-the-badge)
-![Discord Servers](https://img.shields.io/badge/Discord-1000%2B%20Servers-purple?style=for-the-badge)
+![NPM Downloads](https://img.shields.io/badge/NPM-2,000%2B%20Downloads-green?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/badge/GitHub-5%2B%20Stars-yellow?style=for-the-badge)
+![Discord Servers](https://img.shields.io/badge/Discord-10%2B%20Servers-purple?style=for-the-badge)
 
 </div>
-
-- 🥇 **Top 1%** NPM package maintainer
-- 🏅 **Featured** in Discord Developer Community
-- 🎖️ **Recognized** for open source contributions
-- 🏆 **Awarded** for innovative music bot solutions
 
 ---
 
