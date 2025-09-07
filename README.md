@@ -111,8 +111,8 @@
 |--------|-------|
 | **NPM Downloads** | ![NPM Downloads](https://img.shields.io/npm/dm/ryxu-xo-euralink?label=Downloads&style=flat-square) |
 | **GitHub Stars** | ![GitHub Stars](https://img.shields.io/github/stars/ryxu-xo/euralink?label=Stars&style=flat-square) |
-| **Discord Servers** | 1,000+ |
-| **Active Users** | 10,000+ |
+| **Discord Servers** | 10+ |
+| **Active Users** | 500+ |
 | **Uptime** | 99.9% |
 
 </div>
@@ -140,7 +140,7 @@
 
 ## 🎵 **Why Euralink?**
 
-> *"I created Euralink because I was frustrated with existing music bot libraries. They were slow, unreliable, and lacked the features developers needed. Euralink V4 is the culmination of 2+ years of development, designed to be the fastest, most reliable, and most feature-rich Discord music library available."*
+> *"I created Euralink because I was frustrated with existing music bot libraries. They were slow, unreliable, and lacked the features developers needed. Euralink V4 is the culmination of 6 months of development, designed to be the fastest, most reliable, and most feature-rich Discord music library available."*
 
 ### **What Makes Euralink Special:**
 - ⚡ **Blazing Fast**: HTTP/2, connection pooling, smart caching
