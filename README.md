@@ -20,7 +20,7 @@
 
 </div>
 
-**Euralink** is a high-performance Discord music bot library built with Node.js and Lavalink. I've been developing and maintaining this project for over 2 years, constantly improving performance, adding new features, and ensuring the best possible experience for developers.
+**Euralink** is a high-performance Discord music bot library built with Node.js and Lavalink. I've been developing and maintaining this project for over 6 months, constantly improving performance, adding new features, and ensuring the best possible experience for developers.
 
 ### 🚀 **Euralink V4 - The Ultimate Music Experience**
 
