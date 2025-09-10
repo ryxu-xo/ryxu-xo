@@ -140,7 +140,7 @@
 
 ## 🎵 **Why Euralink?**
 
-> *"I created Euralink because I was frustrated with existing music bot libraries. They were slow, unreliable, and lacked the features developers needed. Euralink V4 is the culmination of 6 months of development, designed to be the fastest, most reliable, and most feature-rich Discord music library available."*
+> *"I created Euralink because it was designed to be the fastest, most reliable, and most feature-rich Discord music library available."*
 
 ### **What Makes Euralink Special:**
 - ⚡ **Blazing Fast**: HTTP/2, connection pooling, smart caching
