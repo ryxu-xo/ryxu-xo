@@ -166,8 +166,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryxu-xo&theme=tokyonight&hide_border=true&custom_title=Ryxu's%20Contribution%20Activity)
 
-![Discord](https://disprofile.vercel.app/api/profile?userId=1353198664511913994&design=design2&theme=light)
-
 ---
 
 <div align="center">
